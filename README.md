@@ -1,5 +1,5 @@
 # data
-Data sources you can use for different projects
+Data sources and services you can use for different projects
 
 ## Services
 
